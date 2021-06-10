@@ -1,0 +1,117 @@
+h1 {
+	color: #360a14;
+	font-size: 32px;
+	font-family: 'Viaoda Libre', cursive;
+}
+
+
+div {
+ background: #a3b9c9;
+ box-shadow: 3px 3px 10px grey;
+}
+
+
+h2, h3, h4 {
+	font-size: 28px;
+	font-family: arial;
+}
+
+p, ul, ol {
+	font-size: 20px;
+}
+
+
+body {
+	background: white;
+	font-family: arial;
+	text-align: center;
+}
+
+h4, ul, ol {
+	text-align: left;
+}
+
+.vador {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px grey;
+}
+
+a:hover {
+	color: brown;
+}
+
+
+.trooper {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.chewbacca {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.stormtrooper {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.line-transparent {
+  background: black;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.line-light {
+  height: 10px;
+  width: 20%;
+  background: #55251d;
+}
+
+.line-medium {
+  height: 10px;
+  width: 30%;
+  background: #495d63;
+}
+
+.line-hard {
+  height: 10px;
+  width: 50%;
+  background: #360a14;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  margin: 10px 30px;
+  color: #495d63;
+}
+
+.link:hover {
+  color: #458D2E;
+}
+
+#mc_embed_signup {
+	background:#495d63; 
+	clear:left; 
+	font:14px Helvetica,Arial,sans-serif; 
+}
